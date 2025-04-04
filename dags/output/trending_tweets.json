@@ -1,0 +1,27 @@
+[
+  {
+    "tweet": "This is awesome!",
+    "polarity": 1.0,
+    "sentiment": "positive"
+  },
+  {
+    "tweet": "Airflow makes life easier.",
+    "polarity": 0.0,
+    "sentiment": "neutral"
+  },
+  {
+    "tweet": "Not a great day, feeling down.",
+    "polarity": -0.2777777777777778,
+    "sentiment": "negative"
+  },
+  {
+    "tweet": "Loving the new features in Python!",
+    "polarity": 0.3852272727272727,
+    "sentiment": "positive"
+  },
+  {
+    "tweet": "Terrible experience with the product.",
+    "polarity": -1.0,
+    "sentiment": "negative"
+  }
+]

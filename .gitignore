@@ -1,0 +1,6 @@
+# Ignore logs and Airflow runtime files
+logs/
+results/
+__pycache__/
+*.pyc
+.env
